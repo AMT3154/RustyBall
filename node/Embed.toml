@@ -1,0 +1,11 @@
+[default.general]
+chip = "STM32L4R9ZIJx"
+
+[default.reset]
+halt_afterwards = false
+
+[default.rtt]
+enabled = false
+
+[default.gdb]
+enabled = true
